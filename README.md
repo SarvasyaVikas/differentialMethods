@@ -9,3 +9,6 @@
 ###### For differential equations, this repository can utilize Euler's Method, Runge-Kutta 2, and Runge-Kutta 4.
 
 ##### Feel free to use any of the programs here.
+
+##### I am currently programming math games that utilize these functions and allow for solving lots of functions.
+##### To see that, go to https://sarvasyavikas2024.wixsite.com/student-learning-cen
